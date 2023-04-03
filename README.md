@@ -1,5 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif"/>
+ 
+</div>
+<div id="badges"align="center">
+   <img src="https://komarev.com/ghpvc/?username=your-github-Gts-2022&color=green"/>
 </div>
 <!--
 **Gts-2022/Gts-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
